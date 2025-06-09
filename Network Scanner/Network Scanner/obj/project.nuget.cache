@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQf3Zbu1OdU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DT\\source\\repos\\Network Scanner\\Network Scanner\\Network Scanner\\Network Scanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\DT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\DT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\DT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
