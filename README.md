@@ -19,3 +19,6 @@ Technology Used
 C#
 Windows Forms
 NET Framework
+
+Contact
+If you have any questions, please contact me via email: whitekenit@gmail.com
